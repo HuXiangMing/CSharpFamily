@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFamily", "CSharpFamily.csproj", "{754E3B6E-267C-4A99-B2F6-303E027F5AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "正则表达式", "..\正则表达式\正则表达式.csproj", "{D930FDB4-5B16-4558-B584-59D3DA8FB91A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754E3B6E-267C-4A99-B2F6-303E027F5AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754E3B6E-267C-4A99-B2F6-303E027F5AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754E3B6E-267C-4A99-B2F6-303E027F5AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754E3B6E-267C-4A99-B2F6-303E027F5AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D930FDB4-5B16-4558-B584-59D3DA8FB91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D930FDB4-5B16-4558-B584-59D3DA8FB91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D930FDB4-5B16-4558-B584-59D3DA8FB91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D930FDB4-5B16-4558-B584-59D3DA8FB91A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12DA6780-C395-4045-9A67-C757C875BDDE}
+	EndGlobalSection
+EndGlobal

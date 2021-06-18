@@ -1,0 +1,7 @@
+E:\HXM\VS2019Project\C#\正则表达式\bin\Debug\正则表达式.exe.config
+E:\HXM\VS2019Project\C#\正则表达式\bin\Debug\正则表达式.exe
+E:\HXM\VS2019Project\C#\正则表达式\bin\Debug\正则表达式.pdb
+E:\HXM\VS2019Project\C#\正则表达式\obj\Debug\正则表达式.csprojAssemblyReference.cache
+E:\HXM\VS2019Project\C#\正则表达式\obj\Debug\正则表达式.csproj.CoreCompileInputs.cache
+E:\HXM\VS2019Project\C#\正则表达式\obj\Debug\正则表达式.exe
+E:\HXM\VS2019Project\C#\正则表达式\obj\Debug\正则表达式.pdb

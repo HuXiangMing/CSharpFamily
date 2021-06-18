@@ -1,0 +1,7 @@
+E:\HXM\VS2019Project\C#\CSharpFamily\bin\Debug\CSharpFamily.exe.config
+E:\HXM\VS2019Project\C#\CSharpFamily\bin\Debug\CSharpFamily.exe
+E:\HXM\VS2019Project\C#\CSharpFamily\bin\Debug\CSharpFamily.pdb
+E:\HXM\VS2019Project\C#\CSharpFamily\obj\Debug\CSharpFamily.csprojAssemblyReference.cache
+E:\HXM\VS2019Project\C#\CSharpFamily\obj\Debug\CSharpFamily.csproj.CoreCompileInputs.cache
+E:\HXM\VS2019Project\C#\CSharpFamily\obj\Debug\CSharpFamily.exe
+E:\HXM\VS2019Project\C#\CSharpFamily\obj\Debug\CSharpFamily.pdb
